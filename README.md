@@ -6,6 +6,11 @@ Project Topic: Analysis of popular movie data to determine what would be a profi
 Potential Data Sources: https://www.kaggle.com/datasets/singole/tmdb-1000-movie-dataset-2023-new-updated
 Total Data Records: 3,950
 
+-----------------------------------------
+The TMDB 3000+ Movie Dataset we chose, is a comprehensive collection of information on 3000+ of the most popular movies of all time, updated as of 2023. With this dataset, researchers, data analysts, and film enthusiasts can gain valuable insights into the movie industry and its trends over time. 
+---------------------------------------------------------
+
+
 ![Alt text](image.png)
 
 ![Alt text](image-1.png)
