@@ -5,3 +5,12 @@ Team Name: 4Reel Productions
 Project Topic: Analysis of popular movie data to determine what would be a profitable venture for our production company
 Potential Data Sources: https://www.kaggle.com/datasets/singole/tmdb-1000-movie-dataset-2023-new-updated
 Total Data Records: 3,950
+
+![Alt text](image.png)
+
+![Alt text](image-1.png)
+
+![Alt text](image-2.png)
+
+![Alt text](image-3.png)
+
