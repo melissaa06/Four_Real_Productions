@@ -11,7 +11,7 @@ The TMDB 3000+ Movie Dataset we chose, is a comprehensive collection of informat
 ---------------------------------------------------------
 PySpark: https://medium.com/@uzzaman.ahmed/pyspark-string-functions-a-comprehensive-guide-842c3d68351b
 ------------
-Forest Model:https://towardsdatascience.com/random-forest-in-python-24d0893d51c0
+Random Forest Model:https://towardsdatascience.com/random-forest-in-python-24d0893d51c0
 ----------------------
 OneHotEncoding: https://www.geeksforgeeks.org/ml-one-hot-encoding/
 ---------------------------
